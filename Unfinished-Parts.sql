@@ -1,4 +1,4 @@
---Problem: https://datalemur.com/questions/tesla-unfinished-parts
+-- Link to problem: https://datalemur.com/questions/tesla-unfinished-parts
 
 SELECT part, assembly_step
 FROM parts_assembly
